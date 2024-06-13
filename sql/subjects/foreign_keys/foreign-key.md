@@ -26,4 +26,4 @@ Insert the following records into the Enrollments table:
 
 ### Notions
 
- - [sql.sh/cours/jointures]https://sql.sh/cours/jointures
+ - [sql.sh/cours/jointures] (https://sql.sh/cours/jointures)
