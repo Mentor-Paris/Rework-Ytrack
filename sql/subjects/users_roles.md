@@ -26,7 +26,7 @@ The `student_user` should have SELECT, INSERT, UPDATE, and DELETE privileges on 
 In SQL, users and roles are fundamental concepts for managing access to databases and their objects. Understanding these concepts is crucial for database security and effective administration. Here’s a detailed explanation:
 
 - Users in SQL :
-Users represent individual entities (people, applications, or systems) that can interact with the database. Each user has a unique identifier and associated credentials, such as a username and password, to authenticate and authorize access.
+    Users represent individual entities (people, applications, or systems) that can interact with the database. Each user has a unique identifier and associated credentials, such as a username and password, to authenticate and authorize access.
 
 - Key Points about Users: 
 
@@ -41,5 +41,5 @@ Users represent individual entities (people, applications, or systems) that can 
 
 - Roles in SQL : 
 
-Roles are a way to simplify the management of permissions by grouping privileges together. Instead of assigning permissions directly to individual users, you assign roles to users. Roles can also be assigned to other roles, creating a hierarchy.
+    Roles are a way to simplify the management of permissions by grouping privileges together. Instead of assigning permissions directly to individual users, you assign roles to users. Roles can also be assigned to other roles, creating a hierarchy.
 
