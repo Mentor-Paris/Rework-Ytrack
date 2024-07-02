@@ -35,10 +35,11 @@ Users represent individual entities (people, applications, or systems) that can 
     Authentication: Users need to provide the correct credentials to access the database.
 
     Permissions: Users can be granted specific permissions or privileges that define what actions they can perform on the database objects (like tables, views, procedures, etc.)Permissions are granted using the GRANT command.
-    
+
     Account Management: Administrators can manage user accounts, including changing passwords, renaming users, and removing users using commands like ALTER USER, RENAME USER,
     and DROP USER.
 
 - Roles in SQL : 
+
 Roles are a way to simplify the management of permissions by grouping privileges together. Instead of assigning permissions directly to individual users, you assign roles to users. Roles can also be assigned to other roles, creating a hierarchy.
 
