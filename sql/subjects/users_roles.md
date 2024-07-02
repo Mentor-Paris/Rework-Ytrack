@@ -31,8 +31,11 @@ Users represent individual entities (people, applications, or systems) that can 
 - Key Points about Users: 
 
      Creation: Users are created by database administrators using SQL commands.
+
     Authentication: Users need to provide the correct credentials to access the database.
+
     Permissions: Users can be granted specific permissions or privileges that define what actions they can perform on the database objects (like tables, views, procedures, etc.)Permissions are granted using the GRANT command.
+    
     Account Management: Administrators can manage user accounts, including changing passwords, renaming users, and removing users using commands like ALTER USER, RENAME USER,
     and DROP USER.
 
