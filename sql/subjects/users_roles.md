@@ -21,7 +21,7 @@ Grant the following privileges to the `student_user` on the `Students` database:
 The user `student_user` with password `securepassword123` should be created.
 The `student_user` should have SELECT, INSERT, UPDATE, and DELETE privileges on all tables in the 'Students' database.
 
-### Notion
+### Notions
 
 In SQL, users and roles are fundamental concepts for managing access to databases and their objects. Understanding these concepts is crucial for database security and effective administration. Here’s a detailed explanation:
 
