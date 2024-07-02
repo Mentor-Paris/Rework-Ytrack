@@ -33,6 +33,7 @@ Reference Table: The table that contains the primary key, which is the field or 
 Referenced Table: The table that contains the foreign key, which is the field or set of fields that references the primary key in the reference table.
 
 - Function
+
 Primary Key: One or more fields in a table that uniquely identify each record in that table. For example, in an Employees table, the primary key could be EmployeeID.
 Foreign Key: A field in a table that corresponds to the primary key in another table, creating a relationship between the two tables. For example, in a Projects table, a field EmployeeID could be a foreign key referencing EmployeeID in the Employees table.
 
