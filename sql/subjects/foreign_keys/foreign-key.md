@@ -45,6 +45,6 @@ Data Integrity: Ensures that relationships between tables remain valid.
 Normalization: Helps organize data efficiently by avoiding redundancy.
 Navigation: Facilitates navigation between related tables, which is useful for joins.
 
-- For more exmples visit the site below : 
+- For examples visit the site below : 
 
  [sql.sh/cours/jointures] (https://sql.sh/cours/jointures)
